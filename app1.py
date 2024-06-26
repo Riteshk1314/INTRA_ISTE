@@ -14,7 +14,7 @@ from langchain_groq import ChatGroq
 from langchain_community.document_loaders import PyPDFLoader
 load_dotenv()
 from langchain_community.document_loaders import PyPDFDirectoryLoader
-groq_api_key = "gsk_QYCTZ50DNaBGbF6hhtTZWGdyb3FYnCbu2GHh8KKa5kUz9NKbJ"
+groq_api_key = "gsk_QYCTZ50DNaBGbF6hhtTZWGdyb3FYnCbu2GHh8KKa5kUz9NKbNQYJXXYY"#ITS WRONF SO DONT TRY
 from llama_index.llms.groq import Groq
 from dotenv import load_dotenv
 import os 
